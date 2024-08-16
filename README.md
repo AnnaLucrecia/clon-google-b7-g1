@@ -1,6 +1,11 @@
 ## Clon de la página principal de Google
+---
+
 
 Este proyecto es una recreación de la página principal de Google, desarrollada como parte del curso **Frontend by TecnoLochicas Pro 2024 - 2** de Santander. Utilizando únicamente HTML y CSS, se ha replicado la interfaz de usuario de uno de los sitios web más visitados del mundo.
+
+---
+
 
 ### Tecnologías utilizadas
 
@@ -15,5 +20,4 @@ Este proyecto es una recreación de la página principal de Google, desarrollada
 ---
 
 ### Vista previa del proyecto
-
---- ![Texto alternativo](assets/pagina.png)
+![Pagina](assets/pagina.png)
